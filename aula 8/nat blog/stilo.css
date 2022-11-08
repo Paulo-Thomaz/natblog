@@ -1,0 +1,92 @@
+*{
+   margin:0px ;
+   padding: 0px;
+}
+.div {
+   background-color:green;
+   text-align: center;
+   height:250px;
+   padding:20px ;
+}
+.postagem {
+   background-color: green;
+}
+.area-lateral {
+   font-size: 0.9em;
+   padding: 2px;
+   border-bottom: 2px dotted;
+   margin-top: 20px;
+}
+.a{
+   color: white;
+}
+
+
+
+
+
+
+#area-logo {
+   background-color: green;
+   text-align:center ;
+}
+#area-principal{
+   width: 80%;
+   margin: 5Px auto;
+}
+#area-postagem-principal {
+   float: left;
+   width: 70%;
+}
+#area-lateral {
+   width: 240px;
+   float: right;
+   background-color: #c5c5c5;
+}
+#roda-pe {
+   padding: 10px;
+   max-height: 55px;
+   margin-top: 2600px;
+   border: 1px solid black;
+   clear: both
+}
+#area-lateral a:hover{
+	background-color: #7ad100;
+	color: #f2f2f2;
+	padding: 2px;
+}
+
+
+
+p {
+   font-weight: bold;
+   font-family: Arial, Helvetica, sans-serifkkk;
+}
+img {
+   margin: auto;
+}
+h1 {
+   font-size:52px;
+}
+body {
+   font-size:16pxS ;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+   background-color:#d6d6d6;
+}
+a:visited{
+   color: #005312;
+   text-decoration:none;
+}
+a:hover{
+   color: #7ad100;
+   text-decoration:none ;
+   padding:5px;
+}
+h3 {
+   color: #142615;
+   background-color: green;
+   padding: 5px;
+}
+h4 {
+   background-color: rgb(0, 211, 0);
+}
